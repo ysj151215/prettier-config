@@ -1,0 +1,16 @@
+{
+  "name": "@ysj151215/prettier-config",
+  "version": "1.0.0",
+  "description": "My Prettier config preset.",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ysj151215/prettier-config.git"
+  },
+  "license": "MIT",
+  "author": "Jay Yan <hi@imjay.dev>",
+  "main": "index.js"
+}
